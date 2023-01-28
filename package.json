@@ -10,7 +10,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "test": "jest"
+    "test": "jest --runInBand"
   },
   "eslintConfig": {
     "extends": [
